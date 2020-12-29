@@ -10,14 +10,14 @@ Web-Scrapper with Python
 
 ## 파일 내용
 
-- 1. main.py
-실행 관련 코드가 담겨있습니다.
-- 2. indeed.py
-인디드 python 관련 구인 파싱 함수
-- 3. so.py
-스택오버플로우 python 관련 구인 파싱 함수
-- 4. save.py
-파싱한 데이터들을 csv로 저장
+1. main.py
+- 실행 관련 코드가 담겨있습니다.
+2. indeed.py
+- 인디드 python 관련 구인 파싱 함수
+3. so.py
+- 스택오버플로우 python 관련 구인 파싱 함수
+4. save.py
+- 파싱한 데이터들을 csv로 저장
 
 ## 실행 결과
 ![스크린샷 2020-12-29 오후 2 08 25](https://user-images.githubusercontent.com/42991070/103260047-71295180-49df-11eb-80fa-351b60592fee.png)
